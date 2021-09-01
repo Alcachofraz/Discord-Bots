@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1252">
+    <file url="file://$PROJECT_DIR$/src/main/java/dropbox/DropBoxUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/events/OnReady.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/main/Bot.java" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>
