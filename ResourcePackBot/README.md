@@ -1,5 +1,16 @@
 # Minecraft Server Resource Pack Bot
 
-Bot to accept Discord attachments and send them to Dropbox path.
-This bot was used for minecraft. Players would go to Discord and send custom textures to a designated channel. The bot would send those files to Dropbox and add them to the resource pack that's being hosted there.
-In short, this allows for players to dynammically add textures to a minecraft server resource pack.
+## Introduction
+If you need to dynamically update your resource pack hosted on Dropbox, this bot is for you!
+You and your friends can choose a channel in your discord server to deposit your new custom textures, and this bot will automatically send them to the Resource pack in Dropbox, after the proper setup.
+
+## How to set it up?
+
+You'll need to chosoe a discord channel for the bot to operate in. Use **-pack help** to figure out how. You'll also need:
+- A Discord Developer Token (Paste it in **TOKEN** inside **Bot.java**);
+- A Dropbox Developer Access Token (Paste it in **ACCESS_TOKEN** inside **DropboxUtils.java**);
+- To change **PACK_NAME** to the right name of your Pack hosted on Dropbox.
+
+## How does it work?
+
+This bot utilizes the **Dropbox Java API** and the **Discord Java API** to transfer files between both platforms.
