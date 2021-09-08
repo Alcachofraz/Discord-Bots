@@ -19,8 +19,11 @@ Users may choose the ammount of people to participate, and the ammount of **Secr
 The algorithm is similar to writing each participant's name to a different little piece of paper, putting them all inside a cap and shuffling. Then, each member has to take two (assumming they want 2 **Secret Friends**) pieces of paper randomly. Those names become their **Secret Friends**.
 
 But there's a catch. The cap method sometimes can fail. Imagine Arthur is rolling **Secret Friends** with his family. Every participant gets two pieces of paper and Arthur is the last one, but there are only Arthur's pieces of paper left. That's a fail, since Arthur won't be giving presents to himself. We are not narcissistic people!
-
 This bot's algorithm prevents that from happening, and the roll will never fail.
+
+![image](https://user-images.githubusercontent.com/75852333/132564290-51e1eda1-9668-4f28-857d-61447a292dc1.png)
+
+The way this bot outputs the results, is in the form of spoiler messages. Spoiler messages are messages that will remain covered unless you click them. That means you will have to trust your family members not to peek into your Secret Firends!
 
 ## 3. How can I use it?
 
