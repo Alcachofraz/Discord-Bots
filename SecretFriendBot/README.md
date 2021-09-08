@@ -13,8 +13,8 @@ This method surprisingly captivating, since this time of the year achieves a new
 
 ## 2. How does it work?
 
-This bot will take a certain ammount of names and randomise Secret Friends for each member of the family.
-Users may choose the ammount of people to participate, and the ammount of secret friends each participant shall have.
+This bot will take a certain ammount of names and randomise **Secret Friends** for each member of the family.
+Users may choose the ammount of people to participate, and the ammount of **Secret Friends** each participant shall have.
 
 The algorithm is similar to writing each participant's name to a different little piece of paper, putting them all inside a cap and shuffling. Then, each member has to take two (assumming they want 2 **Secret Friends**) pieces of paper randomly. Those names become their **Secret Friends**.
 
