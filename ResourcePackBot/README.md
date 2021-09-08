@@ -9,8 +9,8 @@ You and your friends can choose a channel in your discord server to deposit your
 You'll need to chosoe a discord channel for the bot to operate in. Use **-pack help** to figure out how. You'll also need:
 - A Discord Developer Token (Paste it in **TOKEN** inside **Bot.java**);
 - A Dropbox Developer Access Token (Paste it in **ACCESS_TOKEN** inside **DropboxUtils.java**);
-- To change DROPBOX_PATH to the right CIT path on your.
+- To change **PACK_NAME** to the right name of your Pack hosted on Dropbox.
 
 ## How does it work?
 
-This bot utilizes the Dropbox Java API and the Discord Java API to transfer files between both platforms.
+This bot utilizes the **Dropbox Java API** and the **Discord Java API** to transfer files between both platforms.
