@@ -27,4 +27,5 @@ The way this bot outputs the results, is in the form of spoiler messages. Spoile
 
 ## 3. How can I use it?
 
-Use **-friends help** to learn how to use this bot.
+First you will need to change **TOKEN** inside **Bot.java** to your Discord Developer Token.
+Then, use **-friends help** to learn how to use this bot.
