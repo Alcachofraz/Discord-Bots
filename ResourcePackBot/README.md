@@ -11,6 +11,13 @@ You'll need to chosoe a discord channel for the bot to operate in. Use **-pack h
 - A Dropbox Developer Access Token (Paste it in **ACCESS_TOKEN** inside **DropboxUtils.java**);
 - To change **PACK_NAME** to the right name of your Pack hosted on Dropbox.
 
+## How to use it?
+
+Once the bot is running on one of your discord channels, all you have to do is send the files, like in the following figure.
+
+![image](https://user-images.githubusercontent.com/75852333/132571206-22174293-40f1-42d5-8375-2e1237c80b5e.png)
+
+
 ## How does it work?
 
 This bot utilizes the **Dropbox Java API** and the **Discord Java API** to transfer files between both platforms.
