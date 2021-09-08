@@ -7,8 +7,8 @@ You and your friends can choose a channel in your discord server to deposit your
 ## How to set it up?
 
 You'll need to chosoe a discord channel for the bot to operate in. Use **-pack help** to figure out how. You'll also need:
-- A Discord Developer Token;
-- A Dropbox Developer Access Token;
+- A Discord Developer Token (Paste it in **TOKEN** inside **Bot.java**);
+- A Dropbox Developer Access Token (Paste it in **TOKEN** inside **DropboxUtils.java**);
 - To change DROPBOX_PATH to the right CIT path on your.
 
 ## How does it work?
