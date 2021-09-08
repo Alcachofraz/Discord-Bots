@@ -17,7 +17,7 @@ import java.io.InputStream;
 import java.util.Date;
 
 public class DropBoxUtils {
-    private static final String ACCESS_TOKEN = "NL60Sluig84AAAAAAAAAARtBfBqO7DRGCZuAB0JoUxRX-UuWyYAkbctqDV_h-l54";
+    private static final String ACCESS_TOKEN = "Your Dropbox Access Token";
     private static final String CLIENT_IDENTIFIER = "TexturePackBot";
 
     private static DbxClientV2 client;

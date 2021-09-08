@@ -9,7 +9,7 @@ import javax.security.auth.login.LoginException;
 
 public class Bot {
 
-    public static final String TOKEN = "ODcyNDc1Njg4ODA3MDM5MDM3.YQqaTg.BCIVtwpsCHU9t5cANR4Ozf3T7lY";
+    public static final String TOKEN = "Your Discord Developer Token";
 
     private static JDA jda;
 
