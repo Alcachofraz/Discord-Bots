@@ -12,7 +12,8 @@ import java.util.List;
 public class OnMessage extends ListenerAdapter {
 
     private static String CHANNEL_ID = "0";
-    private static final String DROPBOX_PATH = "/UniPack/assets/minecraft/optifine/cit/";
+    private static final String PACK_NAME = "UniPack";
+    private static final String DROPBOX_PATH = "/" + PACK_NAME + "/assets/minecraft/optifine/cit/";
     private static final String HELP = "**-> Comandos:**\n" +
             "       **-pack here** para escolher um canal onde serão depositadas as texturas customizadas.\n" +
             "       **-pack psh <enable/disable>** para ativar ou desativar a mensagem **Psh** sempre que alguém tentar falar no canal das texturas.\n" +
